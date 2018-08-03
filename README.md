@@ -28,7 +28,7 @@
 <hr>
 
 
-## SKILLS
+## Skills
 - 具備2年以上C# ASP.NET開發經驗，了解MVC架構
 - 具備Microsoft SQL Server 資料庫程式設計能力
 - 具備Winows Service和Web API開發經驗
