@@ -8,7 +8,7 @@
 
 
 
-## Career
+## CAREER
 #### 毅聲科技 / 軟體設計工程師 (2016/07 - 2018/07)
 - 軟體程式設計撰寫與維護
 - 參與公司新平台前後台開發與設計
@@ -28,7 +28,7 @@
 <hr>
 
 
-## Skills
+## SKILL
 - 具備2年以上C# ASP.NET開發經驗，了解MVC架構
 - 具備Microsoft SQL Server 資料庫程式設計能力
 - 具備Winows Service和Web API開發經驗
@@ -52,6 +52,6 @@ Hugo，喜愛學習新東西的後端工程師，後端工作經歷兩年。<br>
 
 
 
-## Works
+## WORKS
 - [進銷存會員系統](https://github.com/Hugoooooo/ENQuiz)
 - [單字學習系統](https://github.com/Hugoooooo/ChengDa)
